@@ -1,6 +1,6 @@
 # microsoft sara tool
 
-[![microsoft sara tool](gett-stateed.png)](https://github.com/windowsreport/microsoft.sara.tool/)
+[![microsoft sara tool](gett-stateed.png)](https://computer-solved.com/microsoft-sara-tool/)
 
 The primary and recommended method for installing SaRA is through the following Download link. https://aka.ms/SaRASetup By installing SaRA through the above link your SaRA installation you will benefit from automated and quicker updates. If you are unable to install applications directly off the Internet, then you can use the download file from this article to manually install
 
